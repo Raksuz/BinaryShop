@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "752469894748",
+    "project_id": "binaryshop-aa15f",
+    "storage_bucket": "binaryshop-aa15f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752469894748:android:1f1a94b462f4c214e52899",
+        "android_client_info": {
+          "package_name": "com.example.binaryshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752469894748-5f7melr0vn51u7lmebln4i8o57973v2u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.binaryshop",
+            "certificate_hash": "a4fbb74f128a7034350b9ed199558215205d8527"
+          }
+        },
+        {
+          "client_id": "752469894748-mi37030bnfh77mb9vfenlh6qr2mueuva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcLTCcnMumGpnfBEzz2oMfBzdITcZB0pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752469894748-mi37030bnfh77mb9vfenlh6qr2mueuva.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
