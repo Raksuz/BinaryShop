@@ -1,8 +1,10 @@
 import 'package:binaryshop/pages/home1.dart';
+import 'package:binaryshop/pages/repository/firebase_auth_api.dart';
 import 'package:flutter/material.dart';
+import 'package:get/get.dart';
 
 class PaginaPrincipal extends StatefulWidget {
-  const PaginaPrincipal({Key? key}) : super(key: key);
+  final controller = Get.put(FirebaseAuthAPI());
 
   @override
   _PaginaPrincipalState createState() => _PaginaPrincipalState();
