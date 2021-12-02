@@ -55,16 +55,12 @@ class _PaginaPrincipalState extends State<PaginaPrincipal> {
                         mainAxisSpacing: 0.1,
                         childAspectRatio: 0.700,
                         children: <Widget>[
-                          _productoItem(
-                              'Hoodie', 125, 'assets/images/img1.jpg'),
-                          _productoItem('Gafas', 35, 'assets/images/gafas.jpg'),
-                          _productoItem(
-                              'Playera', 175, 'assets/images/pcafe.jpg'),
-                          _productoItem(
-                              'Sueter', 125, 'assets/images/sueter.jpg'),
-                          _productoItem('Blusa', 125, 'assets/images/img2.jpg'),
-                          _productoItem(
-                              'Shorts', 125, 'assets/images/shorts.jpg'),
+                          _productoItem('Hoodie', 125, 'assets/img/img1.jpg'),
+                          _productoItem('Gafas', 35, 'assets/img/gafas.jpg'),
+                          _productoItem('Playera', 175, 'assets/img/pcafe.jpg'),
+                          _productoItem('Sueter', 125, 'assets/img/sueter.jpg'),
+                          _productoItem('Blusa', 125, 'assets/img/img2.jpg'),
+                          _productoItem('Shorts', 125, 'assets/img/shorts.jpg'),
                         ],
                       ),
                     )),

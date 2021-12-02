@@ -2,9 +2,9 @@ import 'package:binaryshop/pages/repository/firebase_auth_api.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:flutter/cupertino.dart';
-import 'home_trips.dart';
+import 'home_products.dart';
 import 'package:binaryshop/pages/search.dart';
-import 'profile_trips.dart';
+import 'profile_products.dart';
 
 class HomePage extends StatelessWidget {
   final controller = Get.put(FirebaseAuthAPI());
